@@ -1,0 +1,8 @@
+interface:
+  display_name: "ContextRail"
+  short_description: "按需导航大型项目归档，并维护可验证、可修复的文档加载链"
+  brand_color: "#2563EB"
+  default_prompt: "使用 $context-rail 进入指定项目，仅沿相关加载链读取，并报告任何断链。"
+
+policy:
+  allow_implicit_invocation: true

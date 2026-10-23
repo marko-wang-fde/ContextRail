@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "roots": [
+    "workspace/projects"
+  ],
+  "entrypoints": [
+    "workspace/projects/_index.md"
+  ],
+  "exclude": [
+    "**/.git/**",
+    "**/.agents/**",
+    "**/node_modules/**",
+    "**/.venv/**"
+  ],
+  "max_depth": 12
+}
