@@ -4,6 +4,8 @@
 
 ContextRail 是一个项目级 Codex Skill，用显式 Markdown 指针组织大量项目文件。它让 Codex 从项目索引进入 `_overview.md`，再只沿当前任务需要的路径读取内容。
 
+本项目的加载链设计灵感来自 Hang-Yuan 的 [PGH-dreaming-for-codex](https://github.com/Hang-Yuan/PGH-dreaming-for-codex)，感谢原作者的探索与分享。
+
 ## 包含内容
 
 - `AGENTS.md`：极薄的项目路由规则。
